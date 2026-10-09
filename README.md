@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>I am a computer engineering student who is trying to improve himself. I specialize in backend development and have a few project ideas in mind. Let's see where this road takes me!
+<br>I am a computer engineering student who is trying to improve himself. I specialize in fullstack development and have a few project ideas in mind. Let's see where this road takes me!
 
 
 ## 🌐 Socials:
